@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="add_button">যোগ</string>
+    <string name="save_button">সংরক্ষণ করুন</string>
+    <string name="priority_prompt">অগ্রাধিকার</string>
+    <string name="share_menu">শেয়ার</string>
+    <string name="edit_item_text"> Edit Item Below</string>
+    <string name="search_hint">অনুসন্ধান করুন</string>
+    <string name="quick_add_hint">দ্রুত নতুন আইটেম যোগ করুন</string>
+    <string name="mic_image">Talk to add task</string>
+    <string name="click_image">Click to add task</string>
+    <string name="low">কম</string>
+    <string name="medium">মধ্যপন্থী</string>
+    <string name="high">উচ্চ</string>
+    <string-array name="priority_array">
+        <item>কম</item>
+        <item>মধ্যপন্থী</item>
+        <item>উচ্চ</item>
+    </string-array>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="task_to_be_done">কাজ সম্পন্ন করা হবে</string>
+    <string name="enter_task_here">এখানে আপনার কাজ লিখুন..</string>
+    <string name="due_date">তারিখ দিন</string>
+    <string name="date_not_set">তারিখ সেট না</string>
+    <string name="time_not_set">সময় সেট না</string>
+    <string name="enter_priority">অগ্রাধিকার লিখুন</string>
+    <string name="click_to_set_date">Click to set date</string>
+    <string name="click_to_set_time">Click to set time</string>
+    <string name="cancel_date">cancel date</string>
+    <string name="cancel_time">cancel time</string>
+    <string name="search_task">অনুসন্ধান কাজ</string>
+    <string name="save_item">সংরক্ষণ করুন</string>
+    <string name="share_item">Share</string>
+    <string name="delete_items">আইটেম মুছে দিন</string>
+    <string name="language_setting">ভাষা পরিবর্তন করুন</string>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>বাংলা</item>
+    </string-array>
+</resources>

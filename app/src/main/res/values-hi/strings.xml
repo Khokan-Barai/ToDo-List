@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">ToDo List</string>
+    <string name="add_button">जोड़ना</string>
+    <string name="save_button">बचाना</string>
+    <string name="priority_prompt">प्राथमिकता</string>
+    <string name="share_menu">शेयर</string>
+    <string name="edit_item_text"> नीचे आइटम संपादित करें</string>
+    <string name="search_hint">कार्य खोजें</string>
+    <string name="quick_add_hint">एक नया आइटम जल्दी से जोड़ें</string>
+    <string name="mic_image">कार्य जोड़ने के लिए बात करो</string>
+    <string name="click_image">कार्य जोड़ने के लिए क्लिक करें</string>
+    <string name="low">कम</string>
+    <string name="medium">मध्यम</string>
+    <string name="high">उच्च</string>
+    <string-array name="priority_array">
+        <item>कम</item>
+        <item>मध्यम</item>
+        <item>उच्च</item>
+    </string-array>
+    <string name="appwidget_text">उदाहरण</string>
+    <string name="add_widget">Add widget</string>
+    <string name="task_to_be_done">कार्य किया जाना है</string>
+    <string name="enter_task_here">यहां कार्य दर्ज करें ..</string>
+    <string name="due_date">नियत तारीख</string>
+    <string name="date_not_set">तारीख सेट नहीं है</string>
+    <string name="time_not_set">समय निर्धारित नहीं है</string>
+    <string name="enter_priority">प्राथमिकता दर्ज करें</string>
+    <string name="click_to_set_date">तिथि सेट करने के लिए क्लिक करें</string>
+    <string name="click_to_set_time">समय निर्धारित करने के लिए क्लिक करें</string>
+    <string name="cancel_date">तारीख रद्द करें</string>
+    <string name="cancel_time">समय रद्द करें</string>
+    <string name="search_task">कार्य खोजें</string>
+    <string name="save_item">बचाना</string>
+    <string name="share_item">शेयर</string>
+    <string name="delete_items">आइटम हटाएं</string>
+    <string-array name="lang_select">
+        <item>English</item>
+        <item>हिन्दी</item>
+        <item>বাংলা</item>
+    </string-array>
+</resources>

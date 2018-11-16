@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#bc27e6</color>
+    <color name="colorPrimaryDark">#951aba</color>
+    <color name="colorAccent">#79666c</color>
+
+
+    <color name="colorDatePic">#585656</color>
+    <color name="colorDatePicCancel">#FF0000</color>
+    <color name="colorTimePic">#616060</color>
+    <color name="colorTimePicCancel">#FF0000</color>
+    <color name="colorSpkBtn">#87939A</color>
+    <color name="colorText">#f70109</color>
+    <color name="textColor">#fff</color>
+</resources>
